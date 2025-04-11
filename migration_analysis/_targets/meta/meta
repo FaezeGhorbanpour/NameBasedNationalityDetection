@@ -1,0 +1,24 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+format_topn_destinations|function|300bf3df116668f6|||||||||||||||
+top5_destinations_from_us|stem||809f414511e40d6e|8c0a9deea9201998|1236806957||t20180.5903565977s||0|qs|local|vector|||4.02||Cant select columns that dont exist. Column from_country doesnt exist.
+selected_countries|object|2a17be39de196902|||||||||||||||
+fig4_prop_return_by_type|stem||e73cffbe42605971|f8424fb38108d972|-1036035281||t20181.4202394846s||0|file|local|vector|||4.81||no applicable method for summarise applied to an object of class character
+fig5b_class_distribution_iussp|stem|adc9ab0e29612618|d275b107d0f73e6f|a4ff47d683ba0f7f|-364027840|outputs/fig5b_class_distribution_iussp.pdf|t20188.8638140326s|s16530b|16530|file|local|vector|||5.45||
+fig2_country_composition|stem|a6cd11bd2bf89e7d|e0c63c4de0542674|59a3c9b49631dee9|1621964419|outputs/fig2_composition_of_scholars.pdf|t20188.8640052703s|s7114b|7114|file|local|vector|||13.15||
+fig5a_class_distribution_athletes|stem|cf6ed928841f6f63|28c853678ee76ec6|a4ff47d683ba0f7f|891697904|outputs/fig5a_class_distribution_athletes.pdf|t20188.8640164902s|s18992b|18992|file|local|vector|||0.93||
+fig3_top5_destinations_from_us|stem|bdd1d2e83e6016cb|44a66d4afde57a24|e5b341e0d679fc42|-856825517|outputs/fig3_top5_destinations_from_us.pdf|t20188.8640553617s|s7440b|7440|file|local|vector|||0.86||
+fig1_class_distribution_wikidata|stem|ca0fedb4cf68c77b|d0c97fe386a4d314|a4ff47d683ba0f7f|1335777519|outputs/fig1_class_distribution_wikidata.pdf|t20188.8640682015s|s16465b|16465|file|local|vector|||0.87||
+fig7_evaluation_measures_level2|stem|2130bd5b2fb6294d|8f6e9c0470960739|1f29a4948da29ff7|-375910879|outputs/fig7_evaluation_measures_level_2.pdf|t20189.5361726873s|s5995b|5995|file|local|vector|||10.48||
+fig4_prop_return_by_continent|stem|0d1bedd5db4ab758|e73cffbe42605971|a8986b70e5d24ab9|-1460059011|outputs/fig4_prop_return_by_continent.pdf|t20189.5361974632s|s45183b|45183|file|local|vector|||2.11||
+fig8_evaluation_measures_level3|stem|4451e1ffd9bef3f4|68a6f4e324e83ba9|1f29a4948da29ff7|-1777285937|outputs/fig8_evaluation_measures_level_3.pdf|t20189.5362018467s|s5596b|5596|file|local|vector|||0.3||
+fig6_evaluation_measures_level1|stem|0e967b1d6bbeae3a|8c286446cd11faaf|1f29a4948da29ff7|-455979706|outputs/fig6_evaluation_measures_level_1.pdf|t20189.5362265298s|s5035b|5035|file|local|vector|||0.15||
+palettes|object|5eb2e6b30b5895d5
+plot_scatter_prop_return|function|29eae38b82f34b97
+plot_confusion_matrix|function|584d86d5e990c5b6
+plot_prop_return_bilateral|function|bc37be7eac9a82e6
+treemap_country|function|c13fda9c0939cc97
+plot_class_distribution|function|b6889e8a93143a1a
+plot_evaluation_measures|function|477f6dfda0a0a972
+plot_top5_destinations|function|b4d76bb8482aeb1c
+plot_country_composition|function|ef03578e3d0d7bd8
+fig9_confusion_matrix|stem|1d084f1a43c51038|2564b5f94cf186a5|2b95632c84ca9936|-795197888|outputs/fig9_confusion_matrix_level_3.pdf|t20189.5379891807s|s140006b|140006|file|local|vector|||8.01||
