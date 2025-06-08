@@ -12,7 +12,7 @@ This repository includes replication materials, including data, Python, and R sc
 
 **Manuscript authors**: [Faeze Ghorbanpour](https://github.com/FaezeGhorbanpour), [Thiago Zordan Malaguth](https://github.com/thiagomalaguth), [Aliakbar Akbaritabar](https://github.com/akbaritabar)
 
-**Article DOI**: `TO-BE-ADDED`
+**Article DOI**: [https://doi.org/10.1609/icwsm.v19i1.35836](https://doi.org/10.1609/icwsm.v19i1.35836)
 
 **Replication package DOI on Zenodo**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15103505.svg)](https://doi.org/10.5281/zenodo.15103505)
 
