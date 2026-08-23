@@ -21,3 +21,6 @@ Most web and digital trace data do not include information about an individual's
 
 ## How to replicate the analysis
 To replicate paper's figures, see the `Targets` workflow under `migration analysis" folder which includes R scripts, input data, and output figures written by [Thiago Zordan Malaguth](https://github.com/thiagomalaguth).
+
+## Name-based nationality detection model
+The character-based nationality detection models (fastText, classical ML, character-CNN/LSTM, ByT5) and the Wikipedia-based training data collection pipeline are under [`name_nationality_detection`](name_nationality_detection). Pretrained ByT5 checkpoints for all three granularity levels are published on the [`name-nationality-models`](https://huggingface.co/name-nationality-models) HuggingFace organization. See [`name_nationality_detection/README.md`](name_nationality_detection/README.md) for setup and usage instructions.
